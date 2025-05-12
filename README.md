@@ -63,13 +63,13 @@ You are free to use, copy, modify, merge, publish, distribute, sublicense, and/o
 If you use this code or dataset in your research, please cite:
 
 **Plain-text citation:**  
-Lompo, A., & Le, T.-D. (2025). *multiobjective\_token\_representation: Preprocessing and Embedding of Medical Notes*. GitHub repository: https://github.com/aser97/multiobjective\_token\_representation
+Lompo, A., Le, T.-D., Jouvet, P., & Noumeir, R. (2025). *medical\_token\_embedding: Preprocessing and Embedding of Medical Notes*. GitHub repository: https://github.com/sadc-lab/medical\_token\_embedding
 
 **BibTeX:**
 ```bibtex
-@misc{lompo2025multiobjectivetokenrepresentation,
-  author       = {Aser Lompo and Thanh-Dung Le},
-  title        = {multiobjective\_token\_representation: Preprocessing and Embedding of Medical Notes},
+@misc{lompo2025medicaltokenembedding,
+  author       = {Aser Lompo and Thanh-Dung Le and Philippe Jouvet and Rita Noumeir},
+  title        = {medical\_token\_embedding: Preprocessing and Embedding of Medical Notes},
   year         = {2025},
-  howpublished = {\url{https://github.com/aser97/multiobjective\_token\_representation}},
+  howpublished = {\url{https://github.com/sadc-lab/medical\_token\_embedding}},
 }

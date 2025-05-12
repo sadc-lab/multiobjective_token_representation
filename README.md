@@ -63,13 +63,13 @@ You are free to use, copy, modify, merge, publish, distribute, sublicense, and/o
 If you use this code or dataset in your research, please cite:
 
 **Plain-text citation:**  
-Lompo, A., Le, T.-D., Jouvet, P., & Noumeir, R. (2025). *medical\_token\_embedding: Preprocessing and Embedding of Medical Notes*. GitHub repository: https://github.com/sadc-lab/medical\_token\_embedding
+Lompo, A., Le, T.-D., Jouvet, P., & Noumeir, R. (2025). *medical\_token\_embedding: Preprocessing and Embedding of Medical Notes*. GitHub repository: https://github.com/sadc-lab/medical_token_embedding
 
 **BibTeX:**
 ```bibtex
 @misc{lompo2025medicaltokenembedding,
   author       = {Aser Lompo and Thanh-Dung Le and Philippe Jouvet and Rita Noumeir},
-  title        = {medical\_token\_embedding: Preprocessing and Embedding of Medical Notes},
+  title        = {medical_token_embedding: Preprocessing and Embedding of Medical Notes},
   year         = {2025},
-  howpublished = {\url{https://github.com/sadc-lab/medical\_token\_embedding}},
+  howpublished = {\url{https://github.com/sadc-lab/medical_token_embedding}},
 }

@@ -50,7 +50,7 @@ Once completed, the required datasets will be generated in the correct format wi
 
 ## 🚀 Training CamemBert-Xval
 
-Now everything is ready to run the training process. Follow the instructions in the `Train.ipynb` notebook for detailed steps on training the LESABert model with the preprocessed data.
+Now everything is ready to run the training process. Follow the instructions in the `Train.ipynb` notebook for detailed steps on training the CamemBert-Xval model with the preprocessed data.
 
 ## 📄 License
 
@@ -63,13 +63,13 @@ You are free to use, copy, modify, merge, publish, distribute, sublicense, and/o
 If you use this code or dataset in your research, please cite:
 
 **Plain-text citation:**  
-Lompo, A., Le, T.-D., Jouvet, P., & Noumeir, R. (2025). *medical\_token\_embedding: Preprocessing and Embedding of Medical Notes*. GitHub repository: https://github.com/sadc-lab/medical_token_embedding
+Lompo, A., Le, T.-D., Jouvet, P., & Noumeir, R. (2025). *multiobjective\_token\_representation: Preprocessing and Embedding of Medical Notes*. GitHub repository: https://github.com/sadc-lab/multiobjective_token_representation
 
 **BibTeX:**
 ```bibtex
-@misc{lompo2025medicaltokenembedding,
+@misc{lompo2025multiobjectivetokenrepresentation,
   author       = {Aser Lompo and Thanh-Dung Le and Philippe Jouvet and Rita Noumeir},
-  title        = {medical_token_embedding: Preprocessing and Embedding of Medical Notes},
+  title        = {multiobjective_token_representation: Preprocessing and Embedding of Medical Notes},
   year         = {2025},
-  howpublished = {\url{https://github.com/sadc-lab/medical_token_embedding}},
+  howpublished = {\url{https://github.com/sadc-lab/multiobjective_token_representation}},
 }
